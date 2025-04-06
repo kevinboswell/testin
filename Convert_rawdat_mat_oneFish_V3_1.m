@@ -1,13 +1,3 @@
-% Reads all raw BEM .dat data belonging to one fish and consolidates them 
-% into one .mat file.
-% Each .dat file corresponds to the TS of one frequency at one orientation
-% angle.
-%This assumes that .dat files are in the format "XXX_freq_angle.dat"
-
-%Camilo Roa, FIU, 2023.
-% 2025, Fixed problems reading frequency and angle from filename
-
-%% 
 clearvars
 close all
 
