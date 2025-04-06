@@ -2,6 +2,7 @@ clearvars
 close all
 
 %% Select folder for one fish
+# test WGFAST2025 workshop
 
 fishFolder=uigetdir(pwd,'Fish folder'); %Select where all .dat files are for a specific fish
 
